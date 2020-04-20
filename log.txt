@@ -1,0 +1,5 @@
+.LOG
+9:37 20/04/2020
+añadidos nuevos ficheros
+9:38 20/04/2020
+añadida nueva funcionalidad de parrafo 1
